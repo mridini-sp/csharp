@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\pract 4\\ShoppingCartApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|e:\\c#\\pract 4\\shoppingcartapp\\shoppingcartapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|e:\\c#\\pract 4\\shoppingcartapp\\shoppingcartapp\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|e:\\c#\\pract 4\\shoppingcartapp\\shoppingcartapp\\views\\shopping\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\views\\shopping\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|e:\\c#\\pract 4\\shoppingcartapp\\shoppingcartapp\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|e:\\c#\\pract 4\\shoppingcartapp\\shoppingcartapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|e:\\c#\\pract 4\\shoppingcartapp\\shoppingcartapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D95BE-EEBA-4D8E-A0F2-0CCE05E3F274}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\Program.cs",
+              "ToolTip": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Program.cs",
+              "RelativeToolTip": "ShoppingCartApp\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:14:13.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Views\\Shopping\\Cart.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\Views\\Shopping\\Cart.cshtml",
+              "ToolTip": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Views\\Shopping\\Cart.cshtml",
+              "RelativeToolTip": "ShoppingCartApp\\Views\\Shopping\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T15:29:36.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Views\\Shopping\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\Views\\Shopping\\Index.cshtml",
+              "ToolTip": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Views\\Shopping\\Index.cshtml",
+              "RelativeToolTip": "ShoppingCartApp\\Views\\Shopping\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAwMzMzMzMpwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T15:27:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingController.cs",
+              "DocumentMoniker": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Controllers\\ShoppingController.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\Controllers\\ShoppingController.cs",
+              "ToolTip": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Controllers\\ShoppingController.cs",
+              "RelativeToolTip": "ShoppingCartApp\\Controllers\\ShoppingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:22:43.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\Models\\CartItem.cs",
+              "ToolTip": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Models\\CartItem.cs",
+              "RelativeToolTip": "ShoppingCartApp\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:19:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\Models\\Product.cs",
+              "ToolTip": "E:\\C#\\pract 4\\ShoppingCartApp\\ShoppingCartApp\\Models\\Product.cs",
+              "RelativeToolTip": "ShoppingCartApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:19:21.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

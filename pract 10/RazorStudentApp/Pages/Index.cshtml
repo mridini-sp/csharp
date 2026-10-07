@@ -1,0 +1,37 @@
+﻿@page
+@model IndexModel
+
+@if (!Model.Submitted)
+{
+    <h2>Student Registration</h2>
+
+    <form method="post">
+        <input asp-for="Student.StudentID" placeholder="Student ID" />
+        <input asp-for="Student.Name" placeholder="Name" />
+        <input asp-for="Student.email" placeholder="Email" />
+
+        <select asp-for="Student.Course">
+            <option value="">Select Course</option>
+            <option>BCA</option>
+            <option>BSc IT</option>
+            <option>BSc Data Science</option>
+            <option>MSc IT</option>
+        </select>
+
+        <button type="submit">Register</button>
+        <button type="reset">Clear</button>
+    </form>
+}
+else
+{
+    <h2>Registration Successful</h2>
+
+    <p><b>ID:</b> @Model.Student.StudentID</p>
+    <p><b>Name:</b> @Model.Student.Name</p>
+    <p><b>Email:</b> @Model.Student.email</p>
+    <p><b>Course:</b> @Model.Student.Course</p>
+
+    <form method="get">
+        <button type="submit">Register Another Student</button>
+    </form>
+}

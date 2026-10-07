@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A764004D-B8AE-3677-16E1-F0B30C1E2A8A}|StudentRESTAPI\\StudentRESTAPI.csproj|c:\\users\\mitup\\onedrive\\desktop\\csharppract\\pract 8\\studentrestapi\\studentrestapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A764004D-B8AE-3677-16E1-F0B30C1E2A8A}|StudentRESTAPI\\StudentRESTAPI.csproj|solutionrelative:studentrestapi\\studentrestapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRESTAPI.http",
+              "DocumentMoniker": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 8\\StudentRESTAPI\\StudentRESTAPI.http",
+              "RelativeDocumentMoniker": "StudentRESTAPI\\StudentRESTAPI.http",
+              "ToolTip": "C:\\Users\\mitup\\OneDrive\\Desktop\\CsharpPract\\pract 8\\StudentRESTAPI\\StudentRESTAPI.http",
+              "RelativeToolTip": "StudentRESTAPI\\StudentRESTAPI.http",
+              "ViewState": "AgIAAAoAAABAMzMzMzMawA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-07T01:38:23.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

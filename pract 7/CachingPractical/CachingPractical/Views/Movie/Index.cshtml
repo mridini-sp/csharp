@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Movie Ticket Booking";
+}
+
+<h2>Movie Ticket Booking</h2>
+
+<form method="post" action="/Movie/SelectTheatre">
+    <label>Select Theatre:</label>
+
+    <select name="theatre">
+        <option>IMAX</option>
+        <option>PVR</option>
+        <option>MOVIEMAX</option>
+    </select>
+
+    <button type="submit">Continue</button>
+</form>

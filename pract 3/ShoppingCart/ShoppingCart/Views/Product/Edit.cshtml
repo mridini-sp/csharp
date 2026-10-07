@@ -1,0 +1,25 @@
+﻿@model ShoppingCart.Models.Product
+
+<h2>Edit Item</h2>
+
+<form method="post">
+
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <label>Item Name</label>
+    <input name="Name" value="@Model.Name" />
+
+    <br /><br />
+
+    <label>Price</label>
+    <input name="Price" value="@Model.Price" />
+
+    <br /><br />
+
+    <button type="submit">Update</button>
+
+</form>
+
+<br />
+
+<a href="/Product">Back to Cart</a>

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\pract 7\\CachingPractical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2C7FE2-8187-3AF2-40F2-6A8D15BBBF78}|CachingPractical\\CachingPractical.csproj|e:\\c#\\pract 7\\cachingpractical\\cachingpractical\\views\\movie\\showtimes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE2C7FE2-8187-3AF2-40F2-6A8D15BBBF78}|CachingPractical\\CachingPractical.csproj|solutionrelative:cachingpractical\\views\\movie\\showtimes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2C7FE2-8187-3AF2-40F2-6A8D15BBBF78}|CachingPractical\\CachingPractical.csproj|e:\\c#\\pract 7\\cachingpractical\\cachingpractical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2C7FE2-8187-3AF2-40F2-6A8D15BBBF78}|CachingPractical\\CachingPractical.csproj|solutionrelative:cachingpractical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2C7FE2-8187-3AF2-40F2-6A8D15BBBF78}|CachingPractical\\CachingPractical.csproj|e:\\c#\\pract 7\\cachingpractical\\cachingpractical\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE2C7FE2-8187-3AF2-40F2-6A8D15BBBF78}|CachingPractical\\CachingPractical.csproj|solutionrelative:cachingpractical\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2C7FE2-8187-3AF2-40F2-6A8D15BBBF78}|CachingPractical\\CachingPractical.csproj|e:\\c#\\pract 7\\cachingpractical\\cachingpractical\\controllers\\moviecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2C7FE2-8187-3AF2-40F2-6A8D15BBBF78}|CachingPractical\\CachingPractical.csproj|solutionrelative:cachingpractical\\controllers\\moviecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\pract 7\\CachingPractical\\CachingPractical\\Program.cs",
+              "RelativeDocumentMoniker": "CachingPractical\\Program.cs",
+              "ToolTip": "E:\\C#\\pract 7\\CachingPractical\\CachingPractical\\Program.cs",
+              "RelativeToolTip": "CachingPractical\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:55:58.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Showtimes.cshtml",
+              "DocumentMoniker": "E:\\C#\\pract 7\\CachingPractical\\CachingPractical\\Views\\Movie\\Showtimes.cshtml",
+              "RelativeDocumentMoniker": "CachingPractical\\Views\\Movie\\Showtimes.cshtml",
+              "ToolTip": "E:\\C#\\pract 7\\CachingPractical\\CachingPractical\\Views\\Movie\\Showtimes.cshtml",
+              "RelativeToolTip": "CachingPractical\\Views\\Movie\\Showtimes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T22:55:21.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\pract 7\\CachingPractical\\CachingPractical\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "CachingPractical\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "E:\\C#\\pract 7\\CachingPractical\\CachingPractical\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "CachingPractical\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T22:54:43.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController1.cs",
+              "DocumentMoniker": "E:\\C#\\pract 7\\CachingPractical\\CachingPractical\\Controllers\\MovieController1.cs",
+              "RelativeDocumentMoniker": "CachingPractical\\Controllers\\MovieController1.cs",
+              "ToolTip": "E:\\C#\\pract 7\\CachingPractical\\CachingPractical\\Controllers\\MovieController1.cs",
+              "RelativeToolTip": "CachingPractical\\Controllers\\MovieController1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:53:51.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

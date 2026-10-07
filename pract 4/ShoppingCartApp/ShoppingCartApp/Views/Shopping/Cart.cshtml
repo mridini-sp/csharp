@@ -1,0 +1,47 @@
+﻿@model List<ShoppingCartApp.Models.CartItem>
+
+<h2>Shopping Cart</h2>
+
+<a asp-action="Index">Continue Shopping</a>
+
+@if (!Model.Any())
+{
+    <p>Cart is Empty.</p>
+}
+else
+{
+    decimal total = 0;
+
+    <table class="table">
+        <tr>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Qty</th>
+            <th>Total</th>
+            <th>Action</th>
+        </tr>
+
+        @foreach (var x in Model)
+        {
+            var t = x.Product.Price * x.Quantity;
+            total += t;
+
+            <tr>
+                <td>@x.Product.Name</td>
+                <td>₹@x.Product.Price</td>
+                <td>@x.Quantity</td>
+                <td>₹@t</td>
+                <td>
+                    <a asp-action="Remove" asp-route-id="@x.Product.Id">Remove</a>
+                </td>
+            </tr>
+        }
+
+        <tr>
+            <td colspan="3"><b>Grand Total</b></td>
+            <td colspan="2"><b>₹@total</b></td>
+        </tr>
+    </table>
+
+    <a asp-action="ClearCart">Clear Cart</a>
+}

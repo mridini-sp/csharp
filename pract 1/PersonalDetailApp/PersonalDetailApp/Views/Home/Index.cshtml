@@ -1,0 +1,48 @@
+﻿@model PersonalDetailsApp.Models.PersonalDetails
+
+<h2>Enter Your Details</h2>
+
+<form method="post">
+
+    <label>Name:</label>
+    <input type="text" name="Name" />
+    <br /><br />
+
+    <label>Contact:</label>
+    <input type="text" name="Contact" />
+    <br /><br />
+
+    <label>Location:</label>
+    <select name="Location">
+        <option>Thane</option>
+        <option>Mumbai</option>
+        <option>Dombivali</option>
+        <option>Kalyan</option>
+    </select>
+    <br /><br />
+
+    <label>Gender:</label>
+    <input type="radio" name="Gender" value="Male" /> Male
+    <input type="radio" name="Gender" value="Female" /> Female
+    <br /><br />
+
+    <label>Education:</label>
+    <input type="checkbox" name="Education" value="SSC" /> SSC
+    <input type="checkbox" name="Education" value="HSC" /> HSC
+    <input type="checkbox" name="Education" value="Graduate" /> Graduate
+    <br /><br />
+
+    <button type="submit">Submit</button>
+
+</form>
+
+@if (ViewBag.Submitted == true)
+{
+    <h3>Submitted Details</h3>
+
+    <p><b>Name:</b> @Model.Name</p>
+    <p><b>Contact:</b> @Model.Contact</p>
+    <p><b>Location:</b> @Model.Location</p>
+    <p><b>Gender:</b> @Model.Gender</p>
+    <p><b>Education:</b> @string.Join(", ", Model.Education)</p>
+}

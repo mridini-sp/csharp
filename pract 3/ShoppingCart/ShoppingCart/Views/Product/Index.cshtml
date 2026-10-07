@@ -1,0 +1,34 @@
+﻿@model List<ShoppingCart.Models.Product>
+
+<style>
+    table{width:70%;border-collapse:collapse}
+    th,td{padding:10px;border:1px solid #ddd;text-align:center}
+    th{background:#333;color:white}
+    tr:nth-child(even){background:#f2f2f2}
+</style>
+
+<h2>Shopping Cart</h2>
+
+<a href="/Product/Create">+ Add Item</a>
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>₹@p.Price</td>
+            <td>
+                <a href="/Product/Edit/@p.Id">Edit</a> |
+                <a href="/Product/Delete/@p.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
